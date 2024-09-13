@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to My Self Study Session"
+  message: "Welcome to My Self Study Session modified"
   contactDetails:
     name: "Marc Jamon - Developer"
     email: "{cipher}0234f40ad7fad37e50bd952b4abcce27b3d025028716fa6b00beb28964a85689"
