@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Marc Glenn Jamon Training loans related local APIs "
+  contactDetails:
+    name: "Marc J - Developer"
+    email: "marcj@jamon.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934

@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to Marc Glenn Jamon Training loans related local APIs for QA Testing"
+  contactDetails:
+    name: "Jamon M. - QA Tester"
+    email: "marcj@tester.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934

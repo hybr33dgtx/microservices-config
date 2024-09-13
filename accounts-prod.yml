@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "RUN Account"
+  contactDetails:
+    name: "Hybrid Jamon - L2 Engineer"
+    email: "fries@yahoo.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345

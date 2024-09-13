@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "QA Account"
+  contactDetails:
+    name: "Glenn Jamon - Tester"
+    email: "twister@yahoo.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345

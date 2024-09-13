@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to My Self Study Session"
+  contactDetails:
+    name: "Marc Jamon - Developer"
+    email: "marc@glenn.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

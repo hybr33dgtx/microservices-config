@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Marc Training cards related local APIs for QA Testing"
+  contactDetails:
+    name: "Glenn J - QA Tester"
+    email: "marcj@qa.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
