@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "RUN Account"
+  message: "RUN Account modified"
   contactDetails:
     name: "Hybrid Jamon - L2 Engineer"
     email: "fries@yahoo.com"
