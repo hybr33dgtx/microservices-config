@@ -5,7 +5,7 @@ accounts:
   message: "RUN Account changed"
   contactDetails:
     name: "Hybrid Jamon - L2 Engineer"
-    email: "cajun-fries@yahoo.com"
+    email: "truffle-fries@yahoo.com"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
